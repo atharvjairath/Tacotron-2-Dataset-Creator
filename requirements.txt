@@ -1,0 +1,4 @@
+pip==20.2.3
+pydub==0.25.1
+setuptools==49.2.1
+SpeechRecognition==3.8.1
